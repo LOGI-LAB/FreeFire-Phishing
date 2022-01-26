@@ -60,15 +60,15 @@ FREEFIRE-PHISING IS A PHISING TOOL WICH IS USED TO PHISH A FREEFIRE ACCOUNT OF Y
 
 * apache2
 
-*1. Admin Activation Key Requirements. Visit This Shot Link and Generator Your Kay. Copy kay and Enter Terminal / Termux to Installation Start
+*   1. Admin Activation Key Requirements. Visit This Shot Link and Generator Your Kay. Copy kay and Enter Terminal / Termux to Installation Start
 
-Link : https://bit.ly/OHSMFF
+    Link : https://bit.ly/OHSMFF
 
 
-2. Now go to ngrok.com and create an account where .Now you need to set the author token in ngrock to setup . just go to the ngrok account and here you will see the auth token just copy it and paste it into the termux and hit log in it will successfully configure.
+    2. Now go to ngrok.com and create an account where .Now you need to set the author token in ngrock to setup . just go to the ngrok account and here you will see the auth         token just copy it and paste it into the termux and hit log in it will successfully configure.
 
-3. Wait Online Hacking server connected......
-TURN ON MOBILE DATA & HOTSPOT OTHERWISE IT WILL NOT WORK ! 
+    3. Wait logi Hacking server connected......
+    TURN ON MOBILE DATA & HOTSPOT OTHERWISE IT WILL NOT WORK ! 
 
 ### FEATURES :
 
